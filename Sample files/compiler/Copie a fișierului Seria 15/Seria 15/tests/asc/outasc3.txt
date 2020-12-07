@@ -1,0 +1,1 @@
+switch malitios index 7: switch index 4; switch index 8; 
