@@ -1,0 +1,3 @@
+proiect.asm: 40
+proiect.asm: 70
+proiect.asm: 100
